@@ -1,0 +1,24 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index",
+    "dev": "nodemon src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cococolacode/chat-app.git"
+  },
+  "author": "bhupen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cococolacode/chat-app/issues"
+  },
+  "homepage": "https://github.com/cococolacode/chat-app#readme"
+}
