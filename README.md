@@ -122,7 +122,7 @@ document.querySelector('#increment').addEventListener('click',()=>{
 #### output
 ![screenshot from 2019-03-05 22-24-20](https://user-images.githubusercontent.com/47861774/53821324-ae645a00-3f95-11e9-87e9-01ea450507ff.png)
 
-Both windows will get notification on console on change one of them.
+Both windows will get notification on console, on change on one of them.
 
 
    
