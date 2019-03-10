@@ -8,8 +8,8 @@ This means that the server can push messages to clients. Whenever you write a ch
 * allows persistence connection between client and server.
 * a separate protocol from http
 
-#### Getting Started 
-*Let's include express and socket.io libraries in our node_modules folder*.
+### Getting Started 
+#### Installation
 ```javascript
 npm install --save express socket.io.
 ```
